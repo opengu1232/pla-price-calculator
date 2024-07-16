@@ -1,3 +1,4 @@
+![pla price calculator](https://github.com/user-attachments/assets/c6848dd9-23df-4907-9eac-9eb016c317ac)
 PLA Calculator
 Welcome to the PLA Calculator! This Python-based tool is designed to help you calculate and manage your 3D printing material usage, specifically focusing on Polylactic Acid (PLA) filament.
 
